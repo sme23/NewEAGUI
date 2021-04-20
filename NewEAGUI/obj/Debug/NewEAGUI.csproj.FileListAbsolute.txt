@@ -1,0 +1,10 @@
+U:\Projects\NewEAGUI\NewEAGUI\bin\Debug\NewEAGUI.exe.config
+U:\Projects\NewEAGUI\NewEAGUI\bin\Debug\NewEAGUI.exe
+U:\Projects\NewEAGUI\NewEAGUI\bin\Debug\NewEAGUI.pdb
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.csprojAssemblyReference.cache
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.EventAssembler.resources
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.Properties.Resources.resources
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.csproj.GenerateResource.cache
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.csproj.CoreCompileInputs.cache
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.exe
+U:\Projects\NewEAGUI\NewEAGUI\obj\Debug\NewEAGUI.pdb
